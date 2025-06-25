@@ -24,5 +24,6 @@ public class Repeated_Numbers_In_Array
     			  System.out.println(a[i]);
     		  }
     	  }
+		  System.out.println("Done");
       }
 }
